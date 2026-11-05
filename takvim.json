@@ -8,7 +8,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-1.jpg"
   ],
-  "durum": "onay-bekliyor"
+  "durum": "hazir"
  },
  {
   "id": "2026-11-06-hikaye-2",
@@ -19,7 +19,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-2.jpg"
   ],
-  "durum": "onay-bekliyor"
+  "durum": "hazir"
  },
  {
   "id": "2026-11-06-carousel",
@@ -34,7 +34,7 @@
    "medya/paket-01/carousel-3.jpg",
    "medya/paket-01/carousel-4.jpg"
   ],
-  "durum": "onay-bekliyor"
+  "durum": "hazir"
  },
  {
   "id": "2026-11-06-hikaye-3",
@@ -45,7 +45,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-3.jpg"
   ],
-  "durum": "onay-bekliyor"
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-hikaye-1",
@@ -53,8 +53,10 @@
   "zaman": "2026-11-07T10:00:00+03:00",
   "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
   "tema": "gunun-karesi",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-02/hikaye-1.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-carousel",
@@ -62,9 +64,14 @@
   "zaman": "2026-11-07T11:00:00+03:00",
   "konu": "Kız çocuğu doğum günü",
   "tema": "kiz",
-  "aciklama": "Çocuğunuzun doğum günü için aynı salonun gündüz hâli.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "aciklama": "Bu sene doğum gününü evde toplamaya çalışmayın. Balonlar patlasın, çocuklar koşsun, kimse \"aman dikkat\" demesin.\n\nPasta ve ikram için ne lazımsa konuşuruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57",
+  "gorseller": [
+   "medya/paket-02/carousel-1.jpg",
+   "medya/paket-02/carousel-2.jpg",
+   "medya/paket-02/carousel-3.jpg",
+   "medya/paket-02/carousel-4.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-hikaye-2",
@@ -72,8 +79,10 @@
   "zaman": "2026-11-07T15:00:00+03:00",
   "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
   "tema": "bilgi-soru",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-02/hikaye-2.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-hikaye-3",
@@ -81,8 +90,10 @@
   "zaman": "2026-11-07T20:30:00+03:00",
   "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
   "tema": "cagri",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-02/hikaye-3.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-08-hikaye-1",
