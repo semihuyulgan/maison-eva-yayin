@@ -90,15 +90,17 @@
   "durum": "hazir"
  },
  {
-  "id": "2026-11-08-carousel",
-  "tur": "carousel",
+  "id": "2026-11-08-afis",
+  "tur": "gorsel",
   "zaman": "2026-11-08T14:00:00+03:00",
-  "konu": "Burası neresi (sabitlenecek)",
-  "tema": "mekan",
-  "aciklama": "Meriç'te, 100 kişilik bir salonuz. Nişan, isteme, doğum günü, aklınızda ne varsa burada yapabilirsiniz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "iptal",
-  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
+  "konu": "Afiş: kına",
+  "tema": "afis",
+  "aciklama": "Kına geceniz için yer bakıyorsanız buradayız.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovakına #izmirkınagecesi #izmirnişan",
+  "gorseller": [
+   "medya/paket-afis/3-kina.jpg"
+  ],
+  "durum": "hazir",
+  "etiketler": "#bornovakına #izmirkınagecesi #izmirnişan"
  },
  {
   "id": "2026-11-08-hikaye-2",
@@ -364,15 +366,17 @@
   "durum": "hazir"
  },
  {
-  "id": "2026-11-15-carousel",
-  "tur": "carousel",
+  "id": "2026-11-15-afis",
+  "tur": "gorsel",
   "zaman": "2026-11-15T14:00:00+03:00",
-  "konu": "Bir salon, iki hâl",
-  "tema": "donusum",
-  "aciklama": "Aynı salon. Akşam nişan, gündüz doğum günü. Siz söyleyin, nasıl olsun?\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "iptal",
-  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
+  "konu": "Afiş: nişan",
+  "tema": "afis",
+  "aciklama": "Nişanınız için salon bakıyorsanız yazın, konuşalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
+  "gorseller": [
+   "medya/paket-afis/2-nisan.jpg"
+  ],
+  "durum": "hazir",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-15-hikaye-2",
@@ -638,15 +642,17 @@
   "durum": "hazir"
  },
  {
-  "id": "2026-11-22-carousel",
-  "tur": "carousel",
+  "id": "2026-11-22-afis",
+  "tur": "gorsel",
   "zaman": "2026-11-22T14:00:00+03:00",
-  "konu": "Rezervasyon nasıl yapılır",
-  "tema": "bilgi",
-  "aciklama": "Çok basit: tarihi söylüyorsunuz, kişi sayısını söylüyorsunuz, oturup konuşuyoruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "iptal",
-  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
+  "konu": "Afiş: doğum günü",
+  "tema": "afis",
+  "aciklama": "Doğum günü sizden, gerisini birlikte planlayalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
+  "gorseller": [
+   "medya/paket-afis/1-dogum-gunu.jpg"
+  ],
+  "durum": "hazir",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-22-hikaye-2",
@@ -912,15 +918,17 @@
   "durum": "hazir"
  },
  {
-  "id": "2026-11-29-carousel",
-  "tur": "carousel",
+  "id": "2026-11-29-afis",
+  "tur": "gorsel",
   "zaman": "2026-11-29T14:00:00+03:00",
-  "konu": "İsteme: masa düzeni",
-  "tema": "isteme",
-  "aciklama": "Sade bir masa, iki sandalye, bir de heyecanlı aileler. Bu kadar.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
-  "gorseller": [],
-  "durum": "iptal",
-  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
+  "konu": "Afiş: balon ve süsleme",
+  "tema": "afis",
+  "aciklama": "Balon ve süslemeyi de birlikte planlıyoruz. Rengi, temayı siz söyleyin.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
+  "gorseller": [
+   "medya/paket-afis/4-susleme.jpg"
+  ],
+  "durum": "hazir",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-29-hikaye-2",
