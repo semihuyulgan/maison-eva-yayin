@@ -52,8 +52,12 @@
   "konu": "Örnek konsept: kız çocuğu doğum günü",
   "tema": "konsept",
   "aciklama": "Doğum günü burada böyle kurulabilir. Rengini, temasını siz seçin, konuşalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-08/carousel-1.jpg",
+   "medya/paket-08/carousel-2.jpg",
+   "medya/paket-08/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
