@@ -261,7 +261,8 @@
   "gorseller": [
    "medya/paket-reels/2026-11-12-reels.mp4"
   ],
-  "durum": "hazir"
+  "durum": "hazir",
+  "kapak_ms": 7700
  },
  {
   "id": "2026-11-12-hikaye-3",
@@ -537,7 +538,8 @@
   "gorseller": [
    "medya/paket-reels/2026-11-19-reels.mp4"
   ],
-  "durum": "hazir"
+  "durum": "hazir",
+  "kapak_ms": 10800
  },
  {
   "id": "2026-11-19-hikaye-3",
@@ -813,7 +815,8 @@
   "gorseller": [
    "medya/paket-reels/2026-11-26-reels.mp4"
   ],
-  "durum": "hazir"
+  "durum": "hazir",
+  "kapak_ms": 10800
  },
  {
   "id": "2026-11-26-hikaye-3",
@@ -1089,7 +1092,8 @@
   "gorseller": [
    "medya/paket-reels/2026-12-03-reels.mp4"
   ],
-  "durum": "hazir"
+  "durum": "hazir",
+  "kapak_ms": 10800
  },
  {
   "id": "2026-12-03-hikaye-3",

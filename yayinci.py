@@ -68,7 +68,10 @@ def kap_olustur(k, taban, token):
         hazir_bekle(kap, token)
         return kap
     if k["tur"] == "reels":
-        kap = istek(f"{IG_ID}/media", {"media_type": "REELS", "video_url": adresler[0], "caption": k.get("aciklama", ""), "share_to_feed": "true"}, token)["id"]
+        alanlar = {"media_type": "REELS", "video_url": adresler[0], "caption": k.get("aciklama", ""), "share_to_feed": "true"}
+        if "kapak_ms" in k:
+            alanlar["thumb_offset"] = str(k["kapak_ms"])
+        kap = istek(f"{IG_ID}/media", alanlar, token)["id"]
         hazir_bekle(kap, token)
         return kap
     if k["tur"] == "gorsel":
