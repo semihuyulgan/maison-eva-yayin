@@ -848,8 +848,12 @@
   "konu": "Örnek konsept: kalabalık nişan",
   "tema": "konsept",
   "aciklama": "100 kişiye kadar nişanlar için salon böyle yerleşebilir.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-ytop/carousel-1.jpg",
+   "medya/paket-ytop/carousel-2.jpg",
+   "medya/paket-ytop/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
