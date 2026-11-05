@@ -1,0 +1,969 @@
+[
+ {
+  "id": "2026-11-06-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [
+   "medya/paket-01/hikaye-1.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-06-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [
+   "medya/paket-01/hikaye-2.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-06-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-06T16:00:00+03:00",
+  "konu": "Nişan akşamı",
+  "tema": "nisan",
+  "aciklama": "Sevdiklerinizle kutlayacağınız bir nişan akşamı.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [
+   "medya/paket-01/carousel-1.jpg",
+   "medya/paket-01/carousel-2.jpg",
+   "medya/paket-01/carousel-3.jpg",
+   "medya/paket-01/carousel-4.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-06-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [
+   "medya/paket-01/hikaye-3.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-07-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-07-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-07T11:00:00+03:00",
+  "konu": "Kız çocuğu doğum günü",
+  "tema": "kiz",
+  "aciklama": "Çocuğunuzun doğum günü için aynı salonun gündüz hâli.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-07-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-07-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-08-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-08-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-08T14:00:00+03:00",
+  "konu": "Salon gündüz",
+  "tema": "mekan",
+  "aciklama": "Gün ışığında salonumuz. Kapasitemiz 100 kişi.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-08-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-08-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-09-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-09-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-09-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-09T19:00:00+03:00",
+  "konu": "Salon seçerken 5 soru",
+  "tema": "bilgi",
+  "aciklama": "Salon bakarken bu 5 soruyu sormayı unutmayın. Kaydedin, lazım olur.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-09-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-10-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-10-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-10-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-11-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-11-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-11-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-11T18:00:00+03:00",
+  "konu": "Erkek çocuğu doğum günü",
+  "tema": "erkek",
+  "aciklama": "Gün ışığında, bol koşturmacalı bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-11-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-12-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-12-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-12-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-13-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-13-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-13-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-13T16:00:00+03:00",
+  "konu": "İsteme merasimi",
+  "tema": "isteme",
+  "aciklama": "Aileler için sıcak ve sade bir isteme düzeni.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-13-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-14-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-14-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-14T11:00:00+03:00",
+  "konu": "Bir salon, iki hâl",
+  "tema": "donusum",
+  "aciklama": "Aynı salon: akşam nişan, gündüz doğum günü.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-14-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-14-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-15-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-15-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-15T14:00:00+03:00",
+  "konu": "Detaylar",
+  "tema": "detay",
+  "aciklama": "Perde, çiçek, şamdan. Küçük detaylar kutlamanın havasını değiştirir.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-15-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-15-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-16-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-16-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-16-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-16T19:00:00+03:00",
+  "konu": "Kız çocuğu pastel tema",
+  "tema": "kiz",
+  "aciklama": "Pastel tonlarda bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-16-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-17-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-17-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-17-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-18-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-18-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-18-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-18T18:00:00+03:00",
+  "konu": "Rezervasyon nasıl yapılır",
+  "tema": "bilgi",
+  "aciklama": "Rezervasyon üç adımda: tarih, kişi sayısı, görüşme.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-18-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-19-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-19-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-19-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-20-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-20-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-20-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-20T16:00:00+03:00",
+  "konu": "Nişan: aile anları",
+  "tema": "nisan",
+  "aciklama": "En güzel kareler planlanmayanlar.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-20-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-21-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-21-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-21T11:00:00+03:00",
+  "konu": "Erkek çocuğu macera teması",
+  "tema": "erkek",
+  "aciklama": "Yıldızlar, balonlar ve bol koşturmaca için bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-21-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-21-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-22-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-22-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-22T14:00:00+03:00",
+  "konu": "50 kişi mi, 100 kişi mi",
+  "tema": "bilgi",
+  "aciklama": "Aynı salon, iki farklı düzen. Kişi sayınıza göre planlayalım.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-22-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-22-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-23-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-23-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-23-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-23T19:00:00+03:00",
+  "konu": "Küçük kutlamalar",
+  "tema": "kutlama",
+  "aciklama": "Yıl dönümü, mezuniyet, aile buluşması. Küçük kutlamalar için de buradayız.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-23-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-24-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-24-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-24-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-25-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-25-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-25-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-25T18:00:00+03:00",
+  "konu": "Salon akşam",
+  "tema": "mekan",
+  "aciklama": "Işıklar kısıldığında salonumuz.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-25-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-26-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-26-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-26-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-27-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-27-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-27-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-27T16:00:00+03:00",
+  "konu": "Kız çocuğu doğum günü: pasta anı",
+  "tema": "kiz",
+  "aciklama": "Mumlar üflenmeden önceki o an.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-27-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-28-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-28-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-28T11:00:00+03:00",
+  "konu": "Mekân kiralamaya ne dahil",
+  "tema": "bilgi",
+  "aciklama": "Kiralamaya alan ve müzik sistemi dahildir. Pasta, ikram ve içecek seçeneklerini talebinize göre ayrıca planlayabiliriz.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-28-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-28-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-29-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-29-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-29T14:00:00+03:00",
+  "konu": "İsteme: masa düzeni",
+  "tema": "isteme",
+  "aciklama": "Sade, özenli bir isteme masası.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-29-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-29-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-30-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-30-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-30-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-30T19:00:00+03:00",
+  "konu": "Erkek çocuğu doğum günü: oyun anı",
+  "tema": "erkek",
+  "aciklama": "Gün ışığında bol kahkahalı bir kutlama fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-30-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-01-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-01-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-01-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-02-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-02-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-02-carousel",
+  "tur": "carousel",
+  "zaman": "2026-12-02T18:00:00+03:00",
+  "konu": "Aralık tarihleri",
+  "tema": "cagri",
+  "aciklama": "Aralık için tarih düşünüyorsanız şimdiden konuşalım.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-02-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-03-hikaye-1",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T10:00:00+03:00",
+  "konu": "Günün carousel'inden bir kare, 'yeni gönderi' metniyle",
+  "tema": "gunun-karesi",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-03-hikaye-2",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T15:00:00+03:00",
+  "konu": "Kısa bilgi: kapasite, konum, kiralama veya etkinlik sorusu",
+  "tema": "bilgi-soru",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-03-hikaye-3",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T20:30:00+03:00",
+  "konu": "Akşam çağrısı: tarih ve kişi sayısı, telefon",
+  "tema": "cagri",
+  "gorseller": [],
+  "durum": "gorsel-bekliyor"
+ }
+]

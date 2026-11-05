@@ -1,0 +1,29 @@
+name: Instagram yayini
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: instagram-yayin
+  cancel-in-progress: false
+
+jobs:
+  yayin:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - name: Git kimligi
+        run: |
+          git config user.name "maison-eva-yayin"
+          git config user.email "maison-eva-yayin@users.noreply.github.com"
+      - name: Zamani geleni yayimla
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          MEDYA_TABAN: https://raw.githubusercontent.com/${{ github.repository }}/main
+        run: python3 yayinci.py
