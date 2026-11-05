@@ -176,10 +176,10 @@
   "id": "2026-11-10-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-10T20:30:00+03:00",
-  "konu": "Gelen bir soru ve cevabı",
+  "konu": "Sık sorulan bir soru",
   "tema": "cagri",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-11-hikaye-1",
@@ -269,10 +269,10 @@
   "id": "2026-11-13-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-13T15:00:00+03:00",
-  "konu": "Boş tarihler",
+  "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-13-carousel",
@@ -392,11 +392,11 @@
   "id": "2026-11-16-carousel",
   "tur": "carousel",
   "zaman": "2026-11-16T19:00:00+03:00",
-  "konu": "Fiyat (sabitlenecek)",
+  "konu": "Balon ve süsleme",
   "tema": "bilgi",
-  "aciklama": "",
+  "aciklama": "Balon ve süslemeyi de biz hazırlıyoruz. Rengi, temayı siz söyleyin, birlikte kuralım.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "bilgi-bekliyor",
+  "durum": "gorsel-bekliyor",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
@@ -430,10 +430,10 @@
   "id": "2026-11-17-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-17T20:30:00+03:00",
-  "konu": "Gelen bir soru ve cevabı",
+  "konu": "Sık sorulan bir soru",
   "tema": "cagri",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-18-hikaye-1",
@@ -459,7 +459,7 @@
   "zaman": "2026-11-18T18:00:00+03:00",
   "konu": "Örnek konsept: erkek çocuğu doğum günü",
   "tema": "konsept",
-  "aciklama": "Balon, pasta, bol koşturmaca. Erkek çocukları için de böyle kurulabilir.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
+  "aciklama": "Balon, pasta, bol koşturmaca. Erkek çocukları için de böyle kurulabilir.\nBalon ve süslemeyi de biz hazırlıyoruz.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [],
   "durum": "gorsel-bekliyor",
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
@@ -523,10 +523,10 @@
   "id": "2026-11-20-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-20T15:00:00+03:00",
-  "konu": "Boş tarihler",
+  "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-20-carousel",
@@ -684,10 +684,10 @@
   "id": "2026-11-24-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-24T20:30:00+03:00",
-  "konu": "Gelen bir soru ve cevabı",
+  "konu": "Sık sorulan bir soru",
   "tema": "cagri",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-25-hikaye-1",
@@ -713,7 +713,7 @@
   "zaman": "2026-11-25T18:00:00+03:00",
   "konu": "Örnek konsept: temalı doğum günü",
   "tema": "konsept",
-  "aciklama": "Çocuğunuz neyi seviyorsa onu konuşalım. Tema sizden.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
+  "aciklama": "Çocuğunuz neyi seviyorsa onu konuşalım. Tema sizden.\nBalon ve süslemeyi de biz hazırlıyoruz.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [],
   "durum": "gorsel-bekliyor",
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
@@ -777,10 +777,10 @@
   "id": "2026-11-27-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-27T15:00:00+03:00",
-  "konu": "Boş tarihler",
+  "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-11-27-carousel",
@@ -902,9 +902,9 @@
   "zaman": "2026-11-30T19:00:00+03:00",
   "konu": "Sık sorulanlar",
   "tema": "bilgi",
-  "aciklama": "",
+  "aciklama": "Sık sorulanlar:\n\nKaç kişilik? 100 kişiye kadar.\n\nKiralamaya ne dahil? Salon ve müzik sistemi.\n\nBalon ve süsleme var mı? Var, birlikte planlıyoruz.\n\nPasta ve ikram? İsterseniz ayrıca konuşuyoruz.\n\nFiyat ne kadar? Tarih ve kişi sayınızı DM'den yazın, size özel konuşalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "bilgi-bekliyor",
+  "durum": "gorsel-bekliyor",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
@@ -938,10 +938,10 @@
   "id": "2026-12-01-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-12-01T20:30:00+03:00",
-  "konu": "Gelen bir soru ve cevabı",
+  "konu": "Sık sorulan bir soru",
   "tema": "cagri",
   "gorseller": [],
-  "durum": "bilgi-bekliyor"
+  "durum": "gorsel-bekliyor"
  },
  {
   "id": "2026-12-02-hikaye-1",
