@@ -84,8 +84,10 @@
   "zaman": "2026-11-08T10:00:00+03:00",
   "konu": "Hazırlık anı",
   "tema": "gunun-karesi",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-09/hikaye-1.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-08-carousel",
@@ -141,8 +143,12 @@
   "konu": "Kiralamaya ne dahil (sabitlenecek)",
   "tema": "bilgi",
   "aciklama": "En çok sorulan soru: kiralamaya ne dahil? Salon ve müzik sistemi dahil. Pasta, ikram ve içecek isterseniz ayrıca konuşuyoruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-09/carousel-1.jpg",
+   "medya/paket-09/carousel-2.jpg",
+   "medya/paket-09/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
