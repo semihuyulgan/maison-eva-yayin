@@ -941,8 +941,12 @@
   "konu": "Sık sorulanlar",
   "tema": "bilgi",
   "aciklama": "Sık sorulanlar:\n\nKaç kişilik? 100 kişiye kadar.\n\nKiralamaya ne dahil? Salon ve müzik sistemi.\n\nBalon ve süsleme var mı? Var, birlikte planlıyoruz.\n\nPasta ve ikram? İsterseniz ayrıca konuşuyoruz.\n\nFiyat ne kadar? Tarih ve kişi sayınızı DM'den yazın, size özel konuşalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-sss/carousel-1.jpg",
+   "medya/paket-sss/carousel-2.jpg",
+   "medya/paket-sss/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
