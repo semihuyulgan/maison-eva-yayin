@@ -320,8 +320,12 @@
   "konu": "Örnek konsept: kına",
   "tema": "konsept",
   "aciklama": "Kına geceniz için geniş bir alan. Masaları, düzeni birlikte konuşalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovakına #izmirkınagecesi #izmirnişan",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-kina/carousel-1.jpg",
+   "medya/paket-kina/carousel-2.jpg",
+   "medya/paket-kina/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovakına #izmirkınagecesi #izmirnişan"
  },
  {
@@ -405,8 +409,12 @@
   "konu": "Balon ve süsleme",
   "tema": "bilgi",
   "aciklama": "Balon ve süslemeyi de biz hazırlıyoruz. Rengi, temayı siz söyleyin, birlikte kuralım.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-balon/carousel-1.jpg",
+   "medya/paket-balon/carousel-2.jpg",
+   "medya/paket-balon/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
@@ -470,8 +478,12 @@
   "konu": "Örnek konsept: erkek çocuğu doğum günü",
   "tema": "konsept",
   "aciklama": "Balon, pasta, bol koşturmaca. Erkek çocukları için de böyle kurulabilir.\nBalon ve süslemeyi de biz hazırlıyoruz.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-erkek/carousel-1.jpg",
+   "medya/paket-erkek/carousel-2.jpg",
+   "medya/paket-erkek/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
