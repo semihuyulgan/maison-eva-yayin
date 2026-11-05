@@ -744,8 +744,12 @@
   "konu": "Örnek konsept: temalı doğum günü",
   "tema": "konsept",
   "aciklama": "Çocuğunuz neyi seviyorsa onu konuşalım. Tema sizden.\nBalon ve süslemeyi de biz hazırlıyoruz.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-ytema/carousel-1.jpg",
+   "medya/paket-ytema/carousel-2.jpg",
+   "medya/paket-ytema/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
@@ -1002,8 +1006,12 @@
   "konu": "Örnek konsept: küçük kutlamalar",
   "tema": "konsept",
   "aciklama": "Yıl dönümü, mezuniyet, küçük bir kutlama. Hepsine yer var.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-kut/carousel-1.jpg",
+   "medya/paket-kut/carousel-2.jpg",
+   "medya/paket-kut/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {

@@ -22,12 +22,12 @@ Türkiye saati. Sade aile salonu planı: 2 örnek konsept, 1 bilgi, 1 Reels, 3 h
 | 22.11 | Pazar | 10:00 | hikaye | Hazırlık anı | Görsel üretilecek |
 | 23.11 | Pazartesi | 19:00 | carousel | Rezervasyon nasıl yapılır | Hazır |
 | 24.11 | Salı | 20:30 | hikaye | Sık sorulan bir soru | Görsel üretilecek |
-| 25.11 | Çarşamba | 18:00 | carousel | Örnek konsept: temalı doğum günü | Görsel üretilecek |
+| 25.11 | Çarşamba | 18:00 | carousel | Örnek konsept: temalı doğum günü | Hazır |
 | 26.11 | Perşembe | 19:00 | reels | Salon nişana nasıl hazırlanıyor | Video yapılacak |
 | 27.11 | Cuma | 15:00 | hikaye | Boş tarihleri sorun | Görsel üretilecek |
 | 28.11 | Cumartesi | 11:00 | carousel | Örnek konsept: kalabalık nişan | Hazır |
 | 29.11 | Pazar | 10:00 | hikaye | Hazırlık anı | Görsel üretilecek |
 | 30.11 | Pazartesi | 19:00 | carousel | Sık sorulanlar | Görsel üretilecek |
 | 01.12 | Salı | 20:30 | hikaye | Sık sorulan bir soru | Görsel üretilecek |
-| 02.12 | Çarşamba | 18:00 | carousel | Örnek konsept: küçük kutlamalar | Görsel üretilecek |
+| 02.12 | Çarşamba | 18:00 | carousel | Örnek konsept: küçük kutlamalar | Hazır |
 | 03.12 | Perşembe | 19:00 | reels | Aynı salon, üç kutlama | Video yapılacak |
