@@ -184,8 +184,10 @@
   "zaman": "2026-11-10T20:30:00+03:00",
   "konu": "Sık sorulan bir soru",
   "tema": "cagri",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-10-hikaye-3.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-11-hikaye-1",
@@ -281,8 +283,10 @@
   "zaman": "2026-11-13T15:00:00+03:00",
   "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-13-hikaye-2.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-13-carousel",
@@ -352,8 +356,10 @@
   "zaman": "2026-11-15T10:00:00+03:00",
   "konu": "Hazırlık anı",
   "tema": "gunun-karesi",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-15-hikaye-1.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-15-carousel",
@@ -450,8 +456,10 @@
   "zaman": "2026-11-17T20:30:00+03:00",
   "konu": "Sık sorulan bir soru",
   "tema": "cagri",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-17-hikaye-3.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-18-hikaye-1",
@@ -547,8 +555,10 @@
   "zaman": "2026-11-20T15:00:00+03:00",
   "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-20-hikaye-2.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-20-carousel",
@@ -618,8 +628,10 @@
   "zaman": "2026-11-22T10:00:00+03:00",
   "konu": "Hazırlık anı",
   "tema": "gunun-karesi",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-22-hikaye-1.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-22-carousel",
@@ -716,8 +728,10 @@
   "zaman": "2026-11-24T20:30:00+03:00",
   "konu": "Sık sorulan bir soru",
   "tema": "cagri",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-24-hikaye-3.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-25-hikaye-1",
@@ -813,8 +827,10 @@
   "zaman": "2026-11-27T15:00:00+03:00",
   "konu": "Boş tarihleri sorun",
   "tema": "bilgi-soru",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-27-hikaye-2.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-27-carousel",
@@ -884,8 +900,10 @@
   "zaman": "2026-11-29T10:00:00+03:00",
   "konu": "Hazırlık anı",
   "tema": "gunun-karesi",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-11-29-hikaye-1.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-29-carousel",
@@ -982,8 +1000,10 @@
   "zaman": "2026-12-01T20:30:00+03:00",
   "konu": "Sık sorulan bir soru",
   "tema": "cagri",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "gorseller": [
+   "medya/paket-hikaye/2026-12-01-hikaye-3.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-12-02-hikaye-1",
