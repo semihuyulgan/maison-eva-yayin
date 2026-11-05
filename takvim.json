@@ -8,7 +8,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-1.jpg"
   ],
-  "durum": "hazir"
+  "durum": "onay-bekliyor"
  },
  {
   "id": "2026-11-06-hikaye-2",
@@ -19,7 +19,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-2.jpg"
   ],
-  "durum": "hazir"
+  "durum": "onay-bekliyor"
  },
  {
   "id": "2026-11-06-carousel",
@@ -27,14 +27,14 @@
   "zaman": "2026-11-06T16:00:00+03:00",
   "konu": "Nişan akşamı",
   "tema": "nisan",
-  "aciklama": "Sevdiklerinizle kutlayacağınız bir nişan akşamı.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Nişan dediğin biraz heyecan, biraz telaş, bolca sevdiklerin. Salon kısmını bize bırakın.\n\nTarihinizi ve kişi sayınızı DM'den yazın, konuşalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57",
   "gorseller": [
    "medya/paket-01/carousel-1.jpg",
    "medya/paket-01/carousel-2.jpg",
    "medya/paket-01/carousel-3.jpg",
    "medya/paket-01/carousel-4.jpg"
   ],
-  "durum": "hazir"
+  "durum": "onay-bekliyor"
  },
  {
   "id": "2026-11-06-hikaye-3",
@@ -45,7 +45,7 @@
   "gorseller": [
    "medya/paket-01/hikaye-3.jpg"
   ],
-  "durum": "hazir"
+  "durum": "onay-bekliyor"
  },
  {
   "id": "2026-11-07-hikaye-1",
