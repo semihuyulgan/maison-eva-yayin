@@ -71,6 +71,10 @@ def kap_olustur(k, taban, token):
         kap = istek(f"{IG_ID}/media", {"media_type": "REELS", "video_url": adresler[0], "caption": k.get("aciklama", ""), "share_to_feed": "true"}, token)["id"]
         hazir_bekle(kap, token)
         return kap
+    if k["tur"] == "gorsel":
+        kap = istek(f"{IG_ID}/media", {"image_url": adresler[0], "caption": k.get("aciklama", "")}, token)["id"]
+        hazir_bekle(kap, token)
+        return kap
     cocuklar = []
     for adres in adresler:
         c = istek(f"{IG_ID}/media", {"image_url": adres, "is_carousel_item": "true"}, token)["id"]
