@@ -27,7 +27,7 @@
   "zaman": "2026-11-06T16:00:00+03:00",
   "konu": "Nişan akşamı",
   "tema": "nisan",
-  "aciklama": "Nişan dediğin biraz heyecan, biraz telaş, bolca sevdiklerin. Salon kısmını bize bırakın.\n\nTarihinizi ve kişi sayınızı DM'den yazın, konuşalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57",
+  "aciklama": "Nişan dediğin biraz heyecan, biraz telaş, bolca sevdiklerin. Salon kısmını bize bırakın.\n\nTarihinizi ve kişi sayınızı DM'den yazın, konuşalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
   "gorseller": [
    "medya/paket-01/carousel-1.jpg",
    "medya/paket-01/carousel-2.jpg",
@@ -64,7 +64,7 @@
   "zaman": "2026-11-07T11:00:00+03:00",
   "konu": "Kız çocuğu doğum günü",
   "tema": "kiz",
-  "aciklama": "Bu sene doğum gününü evde toplamaya çalışmayın. Balonlar patlasın, çocuklar koşsun, kimse \"aman dikkat\" demesin.\n\nPasta ve ikram için ne lazımsa konuşuruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57",
+  "aciklama": "Bu sene doğum gününü evde toplamaya çalışmayın. Balonlar patlasın, çocuklar koşsun, kimse \"aman dikkat\" demesin.\n\nPasta ve ikram için ne lazımsa konuşuruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [
    "medya/paket-02/carousel-1.jpg",
    "medya/paket-02/carousel-2.jpg",
@@ -108,11 +108,12 @@
   "id": "2026-11-08-carousel",
   "tur": "carousel",
   "zaman": "2026-11-08T14:00:00+03:00",
-  "konu": "Salon gündüz",
+  "konu": "Burası neresi (sabitlenecek)",
   "tema": "mekan",
-  "aciklama": "Gün ışığında salonumuz. Kapasitemiz 100 kişi.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Meriç'te, 100 kişilik bir salonuz. Nişan, isteme, doğum günü, aklınızda ne varsa burada yapabilirsiniz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-08-hikaye-2",
@@ -154,11 +155,12 @@
   "id": "2026-11-09-carousel",
   "tur": "carousel",
   "zaman": "2026-11-09T19:00:00+03:00",
-  "konu": "Salon seçerken 5 soru",
+  "konu": "Kiralamaya ne dahil (sabitlenecek)",
   "tema": "bilgi",
-  "aciklama": "Salon bakarken bu 5 soruyu sormayı unutmayın. Kaydedin, lazım olur.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "En çok sorulan soru: kiralamaya ne dahil? Salon ve müzik sistemi dahil, müziğinizi kendiniz açıyorsunuz. Pasta, ikram ve içecek isterseniz ayrıca konuşuyoruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-09-hikaye-3",
@@ -220,9 +222,10 @@
   "zaman": "2026-11-11T18:00:00+03:00",
   "konu": "Erkek çocuğu doğum günü",
   "tema": "erkek",
-  "aciklama": "Gün ışığında, bol koşturmacalı bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Çocuklar koşacak, balonlar patlayacak, ortalık biraz dağılacak. Doğum günü dediğin böyle olur.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-11-hikaye-3",
@@ -250,6 +253,16 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-12-reels",
+  "tur": "reels",
+  "zaman": "2026-11-12T19:00:00+03:00",
+  "konu": "Bir nişan nasıl geçiyor (sabitlenecek)",
+  "tema": "surec",
+  "aciklama": "Bir nişan burada nasıl geçiyor, merak edenler için.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
+  "gorseller": [],
+  "durum": "video-bekliyor"
  },
  {
   "id": "2026-11-12-hikaye-3",
@@ -284,9 +297,10 @@
   "zaman": "2026-11-13T16:00:00+03:00",
   "konu": "İsteme merasimi",
   "tema": "isteme",
-  "aciklama": "Aileler için sıcak ve sade bir isteme düzeni.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "İki aile bir masada. Gerisi çayın şekeri.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-13-hikaye-3",
@@ -310,11 +324,12 @@
   "id": "2026-11-14-carousel",
   "tur": "carousel",
   "zaman": "2026-11-14T11:00:00+03:00",
-  "konu": "Bir salon, iki hâl",
-  "tema": "donusum",
-  "aciklama": "Aynı salon: akşam nişan, gündüz doğum günü.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Gerçek etkinlik: unicorn doğum günü",
+  "tema": "gercek",
+  "aciklama": "",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gercek-dosya-bekliyor",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-14-hikaye-2",
@@ -347,11 +362,12 @@
   "id": "2026-11-15-carousel",
   "tur": "carousel",
   "zaman": "2026-11-15T14:00:00+03:00",
-  "konu": "Detaylar",
-  "tema": "detay",
-  "aciklama": "Perde, çiçek, şamdan. Küçük detaylar kutlamanın havasını değiştirir.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Bir salon, iki hâl",
+  "tema": "donusum",
+  "aciklama": "Aynı salon. Akşam nişan, gündüz doğum günü. Siz söyleyin, nasıl olsun?\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-15-hikaye-2",
@@ -393,11 +409,12 @@
   "id": "2026-11-16-carousel",
   "tur": "carousel",
   "zaman": "2026-11-16T19:00:00+03:00",
-  "konu": "Kız çocuğu pastel tema",
-  "tema": "kiz",
-  "aciklama": "Pastel tonlarda bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Salon seçerken 5 soru",
+  "tema": "bilgi",
+  "aciklama": "Salon bakarken bunları sormayı unutmayın. Kaydedin, lazım olur.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-16-hikaye-3",
@@ -457,11 +474,12 @@
   "id": "2026-11-18-carousel",
   "tur": "carousel",
   "zaman": "2026-11-18T18:00:00+03:00",
-  "konu": "Rezervasyon nasıl yapılır",
-  "tema": "bilgi",
-  "aciklama": "Rezervasyon üç adımda: tarih, kişi sayısı, görüşme.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Kız çocuğu temalı doğum günü",
+  "tema": "kiz",
+  "aciklama": "Tema sizden. Hangi renkleri seviyor, onu konuşalım.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-18-hikaye-3",
@@ -489,6 +507,16 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-19-reels",
+  "tur": "reels",
+  "zaman": "2026-11-19T19:00:00+03:00",
+  "konu": "Boş salondan doğum gününe",
+  "tema": "surec",
+  "aciklama": "Sabah boş salon, öğlen doğum günü.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
+  "gorseller": [],
+  "durum": "video-bekliyor"
  },
  {
   "id": "2026-11-19-hikaye-3",
@@ -521,11 +549,12 @@
   "id": "2026-11-20-carousel",
   "tur": "carousel",
   "zaman": "2026-11-20T16:00:00+03:00",
-  "konu": "Nişan: aile anları",
-  "tema": "nisan",
-  "aciklama": "En güzel kareler planlanmayanlar.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Gerçek etkinlik: nişan",
+  "tema": "gercek",
+  "aciklama": "",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gercek-dosya-bekliyor",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-20-hikaye-3",
@@ -551,9 +580,10 @@
   "zaman": "2026-11-21T11:00:00+03:00",
   "konu": "Erkek çocuğu macera teması",
   "tema": "erkek",
-  "aciklama": "Yıldızlar, balonlar ve bol koşturmaca için bir doğum günü fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Yıldızlar, balonlar, bir de bol koşturmaca. Küçük kaşif hazırsa biz hazırız.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-21-hikaye-2",
@@ -586,11 +616,12 @@
   "id": "2026-11-22-carousel",
   "tur": "carousel",
   "zaman": "2026-11-22T14:00:00+03:00",
-  "konu": "50 kişi mi, 100 kişi mi",
+  "konu": "Rezervasyon nasıl yapılır",
   "tema": "bilgi",
-  "aciklama": "Aynı salon, iki farklı düzen. Kişi sayınıza göre planlayalım.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Çok basit: tarihi söylüyorsunuz, kişi sayısını söylüyorsunuz, oturup konuşuyoruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-22-hikaye-2",
@@ -632,11 +663,12 @@
   "id": "2026-11-23-carousel",
   "tur": "carousel",
   "zaman": "2026-11-23T19:00:00+03:00",
-  "konu": "Küçük kutlamalar",
-  "tema": "kutlama",
-  "aciklama": "Yıl dönümü, mezuniyet, aile buluşması. Küçük kutlamalar için de buradayız.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Detaylar",
+  "tema": "detay",
+  "aciklama": "Perdesi, çiçeği, şamdanı. Bazen küçük bir detay bütün havayı değiştiriyor.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-23-hikaye-3",
@@ -696,11 +728,12 @@
   "id": "2026-11-25-carousel",
   "tur": "carousel",
   "zaman": "2026-11-25T18:00:00+03:00",
-  "konu": "Salon akşam",
-  "tema": "mekan",
-  "aciklama": "Işıklar kısıldığında salonumuz.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Küçük kutlamalar",
+  "tema": "kutlama",
+  "aciklama": "Her kutlama büyük olmak zorunda değil. Yıl dönümü, mezuniyet, aile buluşması, hepsine yer var.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-25-hikaye-3",
@@ -728,6 +761,16 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-11-26-reels",
+  "tur": "reels",
+  "zaman": "2026-11-26T19:00:00+03:00",
+  "konu": "Salon nişana nasıl hazırlanıyor",
+  "tema": "surec",
+  "aciklama": "Misafirler gelmeden önceki son saatler.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
+  "gorseller": [],
+  "durum": "video-bekliyor"
  },
  {
   "id": "2026-11-26-hikaye-3",
@@ -760,11 +803,12 @@
   "id": "2026-11-27-carousel",
   "tur": "carousel",
   "zaman": "2026-11-27T16:00:00+03:00",
-  "konu": "Kız çocuğu doğum günü: pasta anı",
-  "tema": "kiz",
-  "aciklama": "Mumlar üflenmeden önceki o an.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Gerçek etkinlik: elimizdeki son kutlama",
+  "tema": "gercek",
+  "aciklama": "",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gercek-dosya-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-27-hikaye-3",
@@ -788,11 +832,12 @@
   "id": "2026-11-28-carousel",
   "tur": "carousel",
   "zaman": "2026-11-28T11:00:00+03:00",
-  "konu": "Mekân kiralamaya ne dahil",
+  "konu": "50 kişi mi, 100 kişi mi",
   "tema": "bilgi",
-  "aciklama": "Kiralamaya alan ve müzik sistemi dahildir. Pasta, ikram ve içecek seçeneklerini talebinize göre ayrıca planlayabiliriz.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "50 kişi de olur, 100 kişi de. Kaç kişi olacağınızı söyleyin, düzeni birlikte kuralım.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-11-28-hikaye-2",
@@ -827,9 +872,10 @@
   "zaman": "2026-11-29T14:00:00+03:00",
   "konu": "İsteme: masa düzeni",
   "tema": "isteme",
-  "aciklama": "Sade, özenli bir isteme masası.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Sade bir masa, iki sandalye, bir de heyecanlı aileler. Bu kadar.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-29-hikaye-2",
@@ -871,11 +917,12 @@
   "id": "2026-11-30-carousel",
   "tur": "carousel",
   "zaman": "2026-11-30T19:00:00+03:00",
-  "konu": "Erkek çocuğu doğum günü: oyun anı",
-  "tema": "erkek",
-  "aciklama": "Gün ışığında bol kahkahalı bir kutlama fikri.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "konu": "Salon akşam",
+  "tema": "mekan",
+  "aciklama": "Akşam olunca ışıkları kısıyoruz, salon bambaşka oluyor.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
   "id": "2026-11-30-hikaye-3",
@@ -937,9 +984,10 @@
   "zaman": "2026-12-02T18:00:00+03:00",
   "konu": "Aralık tarihleri",
   "tema": "cagri",
-  "aciklama": "Aralık için tarih düşünüyorsanız şimdiden konuşalım.\n\nTarihinizi ve kişi sayınızı DM'den paylaşın, detayları birlikte konuşalım. 0534 685 01 57 · Meriç, Bornova",
+  "aciklama": "Aralık için bir tarih düşünüyorsanız erken yazın, birlikte bakalım.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
   "gorseller": [],
-  "durum": "gorsel-bekliyor"
+  "durum": "gorsel-bekliyor",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
   "id": "2026-12-02-hikaye-3",
@@ -967,6 +1015,16 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "gorsel-bekliyor"
+ },
+ {
+  "id": "2026-12-03-reels",
+  "tur": "reels",
+  "zaman": "2026-12-03T19:00:00+03:00",
+  "konu": "Aynı salon, üç kutlama",
+  "tema": "surec",
+  "aciklama": "Nişan, isteme, doğum günü. Hepsi aynı salonda.\n\nTarihinizi ve kişi sayınızı DM'den yazın.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
+  "gorseller": [],
+  "durum": "video-bekliyor"
  },
  {
   "id": "2026-12-03-hikaye-3",

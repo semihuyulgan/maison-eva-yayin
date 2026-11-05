@@ -67,6 +67,10 @@ def kap_olustur(k, taban, token):
         kap = istek(f"{IG_ID}/media", {"media_type": "STORIES", "image_url": adresler[0]}, token)["id"]
         hazir_bekle(kap, token)
         return kap
+    if k["tur"] == "reels":
+        kap = istek(f"{IG_ID}/media", {"media_type": "REELS", "video_url": adresler[0], "caption": k.get("aciklama", ""), "share_to_feed": "true"}, token)["id"]
+        hazir_bekle(kap, token)
+        return kap
     cocuklar = []
     for adres in adresler:
         c = istek(f"{IG_ID}/media", {"image_url": adres, "is_carousel_item": "true"}, token)["id"]
@@ -92,7 +96,7 @@ def main():
     zamani_gelen = [k for k in takvim if k["durum"] == "hazir" and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
     kacirilan = [k for k in zamani_gelen if simdi - dt.datetime.fromisoformat(k["zaman"]) > GECIKME_SINIRI]
     siradakiler = [k for k in zamani_gelen if k not in kacirilan]
-    eksik = [k["id"] for k in takvim if k["durum"] == "gorsel-bekliyor" and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
+    eksik = [k["id"] for k in takvim if k["durum"].endswith("-bekliyor") and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
     print(f"Zamanı gelen: {len(siradakiler)}, kaçırılan: {len(kacirilan)}, görseli olmadığı için atlanan: {len(eksik)}")
     if deneme:
         for k in siradakiler:
