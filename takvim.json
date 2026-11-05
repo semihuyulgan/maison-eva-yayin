@@ -212,8 +212,12 @@
   "konu": "Örnek konsept: nişan",
   "tema": "konsept",
   "aciklama": "Nişanınızı burada böyle yapabilirsiniz. Kaç kişi olacağınızı söyleyin, düzeni birlikte kuralım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-10/carousel-1.jpg",
+   "medya/paket-10/carousel-2.jpg",
+   "medya/paket-10/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {

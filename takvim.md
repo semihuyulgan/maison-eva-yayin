@@ -8,7 +8,7 @@ Türkiye saati. Sade aile salonu planı: 2 örnek konsept, 1 bilgi, 1 Reels, 3 h
 | 08.11 | Pazar | 10:00 | hikaye | Hazırlık anı | Hazır |
 | 09.11 | Pazartesi | 19:00 | carousel | Kiralamaya ne dahil (sabitlenecek) | Hazır |
 | 10.11 | Salı | 20:30 | hikaye | Sık sorulan bir soru | Görsel üretilecek |
-| 11.11 | Çarşamba | 18:00 | carousel | Örnek konsept: nişan | Görsel üretilecek |
+| 11.11 | Çarşamba | 18:00 | carousel | Örnek konsept: nişan | Hazır |
 | 12.11 | Perşembe | 19:00 | reels | Salon turu (sabitlenecek) | Video yapılacak |
 | 13.11 | Cuma | 15:00 | hikaye | Boş tarihleri sorun | Görsel üretilecek |
 | 14.11 | Cumartesi | 11:00 | carousel | Örnek konsept: kına | Görsel üretilecek |
