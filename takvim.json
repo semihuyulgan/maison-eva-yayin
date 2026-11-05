@@ -586,8 +586,12 @@
   "konu": "Örnek konsept: isteme",
   "tema": "konsept",
   "aciklama": "İki aile, sade bir masa. İsteme için de buradayız.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-isteme/carousel-1.jpg",
+   "medya/paket-isteme/carousel-2.jpg",
+   "medya/paket-isteme/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
@@ -671,8 +675,12 @@
   "konu": "Rezervasyon nasıl yapılır",
   "tema": "bilgi",
   "aciklama": "Çok basit: tarihi ve kişi sayısını yazıyorsunuz, müsaitliğe bakıyoruz, gerisini birlikte konuşuyoruz.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
-  "gorseller": [],
-  "durum": "gorsel-bekliyor",
+  "gorseller": [
+   "medya/paket-rez/carousel-1.jpg",
+   "medya/paket-rez/carousel-2.jpg",
+   "medya/paket-rez/carousel-3.jpg"
+  ],
+  "durum": "hazir",
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
