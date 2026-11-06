@@ -45,6 +45,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-06-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T16:00:31+03:00",
+  "konu": "Siz ne kutlayacaksınız? Yazın, merak ediyoruz.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-06-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-06-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-06-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-06-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-06T20:30:00+03:00",
@@ -52,6 +74,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-06-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-06T21:30:00+03:00",
+  "konu": "Tarih bakıyorsanız yazın, birlikte bakalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-06-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-hikaye-1",
@@ -63,6 +96,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-07-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-07-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-07-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-07-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-07-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-07T15:00:00+03:00",
@@ -70,6 +125,28 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-07-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T16:30:00+03:00",
+  "konu": "100 kişiye kadar rahat ediyoruz.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-07-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-07-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-07-hd.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-07-hikaye-3",
@@ -81,6 +158,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-07-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-07T21:30:00+03:00",
+  "konu": "Aklınızdaki tarih boş mu? Sorun.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-07-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-08-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-08T10:00:00+03:00",
@@ -88,6 +176,28 @@
   "tema": "gunun-karesi",
   "gorseller": [
    "medya/paket-09/hikaye-1.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-08-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-08-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-08-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-08-hb.jpg"
   ],
   "durum": "hazir"
  },
@@ -114,6 +224,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-08-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T16:30:00+03:00",
+  "konu": "Salon ve müzik sistemi kiralamaya dahil.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-08-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-08-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T19:30:00+03:00",
+  "konu": "Afiş",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-08-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-08-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-08T20:30:00+03:00",
@@ -121,6 +253,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-08-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-08T21:30:00+03:00",
+  "konu": "DM'den yazın, dönelim.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-08-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-09-hikaye-1",
@@ -132,6 +275,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-09-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-09-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-09-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-09-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-09-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-09T15:00:00+03:00",
@@ -139,6 +304,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-09-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T16:30:00+03:00",
+  "konu": "Balonun rengini siz seçin, birlikte kuralım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-09-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-09-carousel",
@@ -156,6 +332,17 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-11-09-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-09-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-09-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-09T20:30:00+03:00",
@@ -163,6 +350,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-09-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-09T21:30:00+03:00",
+  "konu": "Telefon: 0534 685 01 57",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-09-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-10-hikaye-1",
@@ -174,6 +372,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-10-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-10-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-10-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-10-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-10-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-10T15:00:00+03:00",
@@ -183,6 +403,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-10-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T16:30:00+03:00",
+  "konu": "Pasta ve ikram isterseniz ayrıca konuşuruz.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-10-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-10-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-10-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-10-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-10T20:30:00+03:00",
@@ -190,6 +432,17 @@
   "tema": "cagri",
   "gorseller": [
    "medya/paket-hikaye/2026-11-10-hikaye-3.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-10-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-10T21:30:00+03:00",
+  "konu": "Tarihiniz belli mi? Yazın, bakalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-10-he.jpg"
   ],
   "durum": "hazir"
  },
@@ -203,6 +456,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-11-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-11-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-11-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-11-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-11-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-11T15:00:00+03:00",
@@ -210,6 +485,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-11-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T16:30:00+03:00",
+  "konu": "Buradayız: Meriç, Bornova.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-11-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-11-carousel",
@@ -227,6 +513,17 @@
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
+  "id": "2026-11-11-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-11-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-11-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-11T20:30:00+03:00",
@@ -234,6 +531,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-11-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-11T21:30:00+03:00",
+  "konu": "Fiyat için DM'den yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-11-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-12-hikaye-1",
@@ -245,6 +553,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-12-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-12-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-12-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-12-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-12-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-12T15:00:00+03:00",
@@ -252,6 +582,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-12-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T16:30:00+03:00",
+  "konu": "Çocuğunuz en çok neyi seviyor? Temayı oradan başlatalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-12-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-12-reels",
@@ -267,6 +608,17 @@
   "kapak_ms": 7700
  },
  {
+  "id": "2026-11-12-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-12-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-12-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-12T20:30:00+03:00",
@@ -274,6 +626,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-12-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-12T21:30:00+03:00",
+  "konu": "Tarihi yazın, gerisini konuşalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-12-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-13-hikaye-1",
@@ -285,6 +648,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-13-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-13-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-13-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-13-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-13-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-13T15:00:00+03:00",
@@ -293,7 +678,7 @@
   "gorseller": [
    "medya/paket-hikaye/2026-11-13-hikaye-2.jpg"
   ],
-  "durum": "hazir"
+  "durum": "iptal"
  },
  {
   "id": "2026-11-13-carousel",
@@ -307,6 +692,28 @@
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
+  "id": "2026-11-13-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T16:30:00+03:00",
+  "konu": "Kınada kırmızı mı, bordo mu? Siz söyleyin.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-13-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-13-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-13-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-13-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-13T20:30:00+03:00",
@@ -316,6 +723,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-13-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-13T21:30:00+03:00",
+  "konu": "Bir mesaj yeter, birlikte planlarız.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-13-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-14-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-14T10:00:00+03:00",
@@ -323,6 +741,17 @@
   "tema": "gunun-karesi",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-14-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-14-ha.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-14-carousel",
@@ -340,6 +769,17 @@
   "etiketler": "#bornovakına #izmirkınagecesi #izmirnişan"
  },
  {
+  "id": "2026-11-14-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T13:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-14-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-14-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-14T15:00:00+03:00",
@@ -347,6 +787,28 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-14-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T16:30:00+03:00",
+  "konu": "Kaç kişi olacağınız belli mi?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-14-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-14-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-14-hd.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-14-hikaye-3",
@@ -358,6 +820,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-14-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-14T21:30:00+03:00",
+  "konu": "Arayın, konuşalım: 0534 685 01 57",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-14-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-15-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-15T10:00:00+03:00",
@@ -365,6 +838,28 @@
   "tema": "gunun-karesi",
   "gorseller": [
    "medya/paket-hikaye/2026-11-15-hikaye-1.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-15-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-15-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-15-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-15-hb.jpg"
   ],
   "durum": "hazir"
  },
@@ -391,6 +886,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-15-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T16:30:00+03:00",
+  "konu": "Kalabalık olmak şart değil. Küçük kutlamalara da açığız.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-15-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-15-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T19:30:00+03:00",
+  "konu": "Afiş",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-15-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-15-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-15T20:30:00+03:00",
@@ -398,6 +915,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-15-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-15T21:30:00+03:00",
+  "konu": "Tarih ve kişi sayısını yazmanız yeterli.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-15-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-16-hikaye-1",
@@ -409,6 +937,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-16-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-16-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-16-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-16-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-16-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-16T15:00:00+03:00",
@@ -416,6 +966,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-16-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T16:30:00+03:00",
+  "konu": "İsteme için de yerimiz var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-16-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-16-carousel",
@@ -433,6 +994,17 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-11-16-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-16-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-16-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-16T20:30:00+03:00",
@@ -440,6 +1012,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-16-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-16T21:30:00+03:00",
+  "konu": "Soru sormaktan çekinmeyin, yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-16-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-17-hikaye-1",
@@ -451,6 +1034,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-17-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-17-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-17-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-17-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-17-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-17T15:00:00+03:00",
@@ -460,6 +1065,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-17-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T16:30:00+03:00",
+  "konu": "Mezuniyeti de burada kutlayabilirsiniz.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-17-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-17-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-17-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-17-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-17T20:30:00+03:00",
@@ -467,6 +1094,17 @@
   "tema": "cagri",
   "gorseller": [
    "medya/paket-hikaye/2026-11-17-hikaye-3.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-17-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-17T21:30:00+03:00",
+  "konu": "Merak ettiğiniz ne varsa DM'den sorun.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-17-he.jpg"
   ],
   "durum": "hazir"
  },
@@ -480,6 +1118,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-18-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-18-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-18-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-18-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-18-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-18T15:00:00+03:00",
@@ -487,6 +1147,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-18-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T16:30:00+03:00",
+  "konu": "Balon kemeri mi, sade bir masa mı?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-18-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-18-carousel",
@@ -504,6 +1175,17 @@
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
+  "id": "2026-11-18-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-18-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-18-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-18T20:30:00+03:00",
@@ -511,6 +1193,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-18-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-18T21:30:00+03:00",
+  "konu": "Meriç, Bornova. 0534 685 01 57",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-18-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-19-hikaye-1",
@@ -522,6 +1215,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-19-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-19-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-19-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-19-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-19-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-19T15:00:00+03:00",
@@ -529,6 +1244,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-19-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T16:30:00+03:00",
+  "konu": "Müziği siz seçin, sistem hazır.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-19-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-19-reels",
@@ -544,6 +1270,17 @@
   "kapak_ms": 10800
  },
  {
+  "id": "2026-11-19-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-19-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-19-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-19T20:30:00+03:00",
@@ -551,6 +1288,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-19-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-19T21:30:00+03:00",
+  "konu": "Kutlamanızı konuşmak için yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-19-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-20-hikaye-1",
@@ -562,6 +1310,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-20-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-20-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-20-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-20-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-20-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-20T15:00:00+03:00",
@@ -570,7 +1340,7 @@
   "gorseller": [
    "medya/paket-hikaye/2026-11-20-hikaye-2.jpg"
   ],
-  "durum": "hazir"
+  "durum": "iptal"
  },
  {
   "id": "2026-11-20-carousel",
@@ -584,6 +1354,28 @@
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
+  "id": "2026-11-20-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T16:30:00+03:00",
+  "konu": "Çocuklar için koşturacak yer bol.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-20-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-20-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-20-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-20-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-20T20:30:00+03:00",
@@ -593,6 +1385,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-20-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-20T21:30:00+03:00",
+  "konu": "Yer bakıyorsanız bize de sorun.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-20-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-21-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-21T10:00:00+03:00",
@@ -600,6 +1403,17 @@
   "tema": "gunun-karesi",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-21-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-21-ha.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-21-carousel",
@@ -617,6 +1431,17 @@
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
+  "id": "2026-11-21-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T13:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-21-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-21-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-21T15:00:00+03:00",
@@ -624,6 +1449,28 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-21-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T16:30:00+03:00",
+  "konu": "Nişan masası sade mi olsun, süslü mü?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-21-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-21-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-21-hd.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-21-hikaye-3",
@@ -635,6 +1482,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-21-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-21T21:30:00+03:00",
+  "konu": "Erken yazan istediği tarihi daha rahat bulur.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-21-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-22-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-22T10:00:00+03:00",
@@ -642,6 +1500,28 @@
   "tema": "gunun-karesi",
   "gorseller": [
    "medya/paket-hikaye/2026-11-22-hikaye-1.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-22-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-22-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-22-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-22-hb.jpg"
   ],
   "durum": "hazir"
  },
@@ -668,6 +1548,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-22-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T16:30:00+03:00",
+  "konu": "Perdeler krem, sandalyeler beyaz. Rengi siz katın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-22-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-22-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T19:30:00+03:00",
+  "konu": "Afiş",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-22-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-22-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-22T20:30:00+03:00",
@@ -675,6 +1577,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-22-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-22T21:30:00+03:00",
+  "konu": "Tarih bakıyorsanız yazın, birlikte bakalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-22-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-23-hikaye-1",
@@ -686,6 +1599,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-23-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-23-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-23-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-23-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-23-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-23T15:00:00+03:00",
@@ -693,6 +1628,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-23-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T16:30:00+03:00",
+  "konu": "Doğum günü temanız belli mi?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-23-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-23-carousel",
@@ -710,6 +1656,17 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-11-23-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-23-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-23-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-23T20:30:00+03:00",
@@ -717,6 +1674,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-23-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-23T21:30:00+03:00",
+  "konu": "Aklınızdaki tarih boş mu? Sorun.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-23-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-24-hikaye-1",
@@ -728,6 +1696,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-24-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-24-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-24-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-24-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-24-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-24T15:00:00+03:00",
@@ -737,6 +1727,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-24-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T16:30:00+03:00",
+  "konu": "Süsleme de bizde, salon da.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-24-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-24-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-24-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-24-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-24T20:30:00+03:00",
@@ -744,6 +1756,17 @@
   "tema": "cagri",
   "gorseller": [
    "medya/paket-hikaye/2026-11-24-hikaye-3.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-24-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-24T21:30:00+03:00",
+  "konu": "DM'den yazın, dönelim.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-24-he.jpg"
   ],
   "durum": "hazir"
  },
@@ -757,6 +1780,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-25-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-25-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-25-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-25-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-25-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-25T15:00:00+03:00",
@@ -764,6 +1809,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-25-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T16:30:00+03:00",
+  "konu": "En çok hangi kurulumu sevdiniz? Yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-25-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-25-carousel",
@@ -781,6 +1837,17 @@
   "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
+  "id": "2026-11-25-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-25-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-25-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-25T20:30:00+03:00",
@@ -788,6 +1855,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-25-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-25T21:30:00+03:00",
+  "konu": "Telefon: 0534 685 01 57",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-25-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-26-hikaye-1",
@@ -799,6 +1877,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-26-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-26-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-26-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-26-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-26-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-26T15:00:00+03:00",
@@ -806,6 +1906,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-26-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T16:30:00+03:00",
+  "konu": "Hafta içi mi düşünüyorsunuz, hafta sonu mu?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-26-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-26-reels",
@@ -821,6 +1932,17 @@
   "kapak_ms": 10800
  },
  {
+  "id": "2026-11-26-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-26-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-26-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-26T20:30:00+03:00",
@@ -828,6 +1950,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-26-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-26T21:30:00+03:00",
+  "konu": "Tarihiniz belli mi? Yazın, bakalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-26-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-27-hikaye-1",
@@ -839,6 +1972,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-27-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-27-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-27-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-27-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-27-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-27T15:00:00+03:00",
@@ -847,7 +2002,7 @@
   "gorseller": [
    "medya/paket-hikaye/2026-11-27-hikaye-2.jpg"
   ],
-  "durum": "hazir"
+  "durum": "iptal"
  },
  {
   "id": "2026-11-27-carousel",
@@ -861,6 +2016,28 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-11-27-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T16:30:00+03:00",
+  "konu": "Pastel mi, canlı renkler mi?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-27-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-27-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-27-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-27-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-27T20:30:00+03:00",
@@ -870,6 +2047,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-27-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-27T21:30:00+03:00",
+  "konu": "Fiyat için DM'den yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-27-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-28-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-28T10:00:00+03:00",
@@ -877,6 +2065,17 @@
   "tema": "gunun-karesi",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-28-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-28-ha.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-28-carousel",
@@ -894,6 +2093,17 @@
   "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
  },
  {
+  "id": "2026-11-28-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T13:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-28-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-28-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-28T15:00:00+03:00",
@@ -901,6 +2111,28 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-28-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T16:30:00+03:00",
+  "konu": "Kız isteme, nişan, kına... Hepsi burada olabilir.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-28-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-28-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-28-hd.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-28-hikaye-3",
@@ -912,6 +2144,17 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-28-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-28T21:30:00+03:00",
+  "konu": "Tarihi yazın, gerisini konuşalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-28-he.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-29-hikaye-1",
   "tur": "hikaye",
   "zaman": "2026-11-29T10:00:00+03:00",
@@ -919,6 +2162,28 @@
   "tema": "gunun-karesi",
   "gorseller": [
    "medya/paket-hikaye/2026-11-29-hikaye-1.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-11-29-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-29-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-29-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-29-hb.jpg"
   ],
   "durum": "hazir"
  },
@@ -945,6 +2210,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-29-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T16:30:00+03:00",
+  "konu": "İlk yaş günü mü geliyor?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-29-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-29-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T19:30:00+03:00",
+  "konu": "Afiş",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-29-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-29-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-29T20:30:00+03:00",
@@ -952,6 +2239,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-29-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-29T21:30:00+03:00",
+  "konu": "Bir mesaj yeter, birlikte planlarız.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-29-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-30-hikaye-1",
@@ -963,6 +2261,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-30-ha",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-30-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-11-30-hb",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-30-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-30-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-30T15:00:00+03:00",
@@ -970,6 +2290,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-30-hc",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T16:30:00+03:00",
+  "konu": "Kına gecesi için aklınızda ne var?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-30-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-11-30-carousel",
@@ -987,6 +2318,17 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-11-30-hd",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-30-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-11-30-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-11-30T20:30:00+03:00",
@@ -994,6 +2336,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-11-30-he",
+  "tur": "hikaye",
+  "zaman": "2026-11-30T21:30:00+03:00",
+  "konu": "Arayın, konuşalım: 0534 685 01 57",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-11-30-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-12-01-hikaye-1",
@@ -1005,6 +2358,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-12-01-ha",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-01-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-12-01-hb",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-01-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-01-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-12-01T15:00:00+03:00",
@@ -1014,6 +2389,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-12-01-hc",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T16:30:00+03:00",
+  "konu": "Kutlamada sizin için en önemli şey ne?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-01-hc.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-12-01-hd",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-01-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-01-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-12-01T20:30:00+03:00",
@@ -1021,6 +2418,17 @@
   "tema": "cagri",
   "gorseller": [
    "medya/paket-hikaye/2026-12-01-hikaye-3.jpg"
+  ],
+  "durum": "iptal"
+ },
+ {
+  "id": "2026-12-01-he",
+  "tur": "hikaye",
+  "zaman": "2026-12-01T21:30:00+03:00",
+  "konu": "Tarih ve kişi sayısını yazmanız yeterli.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-01-he.jpg"
   ],
   "durum": "hazir"
  },
@@ -1034,6 +2442,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-12-02-ha",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-02-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-12-02-hb",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-02-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-02-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-12-02T15:00:00+03:00",
@@ -1041,6 +2471,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-12-02-hc",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T16:30:00+03:00",
+  "konu": "Kaç çocuk gelecek? Ona göre alan açalım.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-02-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-12-02-carousel",
@@ -1058,6 +2499,17 @@
   "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
  },
  {
+  "id": "2026-12-02-hd",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T19:30:00+03:00",
+  "konu": "Profilde yeni paylaşım var.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-02-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-02-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-12-02T20:30:00+03:00",
@@ -1065,6 +2517,17 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-12-02-he",
+  "tur": "hikaye",
+  "zaman": "2026-12-02T21:30:00+03:00",
+  "konu": "Soru sormaktan çekinmeyin, yazın.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-02-he.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-12-03-hikaye-1",
@@ -1076,6 +2539,28 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-12-03-ha",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T10:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-03-ha.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
+  "id": "2026-12-03-hb",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T13:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-03-hb.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-03-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-12-03T15:00:00+03:00",
@@ -1083,6 +2568,17 @@
   "tema": "bilgi-soru",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-12-03-hc",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T16:30:00+03:00",
+  "konu": "Masayı nasıl hayal ediyorsunuz?",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-03-hc.jpg"
+  ],
+  "durum": "hazir"
  },
  {
   "id": "2026-12-03-reels",
@@ -1098,6 +2594,17 @@
   "kapak_ms": 10800
  },
  {
+  "id": "2026-12-03-hd",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T19:30:00+03:00",
+  "konu": "Görsel",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-03-hd.jpg"
+  ],
+  "durum": "hazir"
+ },
+ {
   "id": "2026-12-03-hikaye-3",
   "tur": "hikaye",
   "zaman": "2026-12-03T20:30:00+03:00",
@@ -1105,5 +2612,16 @@
   "tema": "cagri",
   "gorseller": [],
   "durum": "iptal"
+ },
+ {
+  "id": "2026-12-03-he",
+  "tur": "hikaye",
+  "zaman": "2026-12-03T21:30:00+03:00",
+  "konu": "Merak ettiğiniz ne varsa DM'den sorun.",
+  "tema": "gunluk",
+  "gorseller": [
+   "medya/paket-gunluk/2026-12-03-he.jpg"
+  ],
+  "durum": "hazir"
  }
 ]

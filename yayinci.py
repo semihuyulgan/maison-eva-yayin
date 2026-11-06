@@ -100,7 +100,10 @@ def main():
     deneme = "--deneme" in sys.argv
     takvim = json.loads(TAKVIM.read_text(encoding="utf-8"))
     simdi = dt.datetime.now(dt.timezone.utc)
-    zamani_gelen = [k for k in takvim if k["durum"] == "hazir" and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
+    zamani_gelen = sorted(
+        (k for k in takvim if k["durum"] == "hazir" and dt.datetime.fromisoformat(k["zaman"]) <= simdi),
+        key=lambda k: dt.datetime.fromisoformat(k["zaman"]),
+    )
     kacirilan = [k for k in zamani_gelen if simdi - dt.datetime.fromisoformat(k["zaman"]) > GECIKME_SINIRI]
     siradakiler = [k for k in zamani_gelen if k not in kacirilan]
     eksik = [k["id"] for k in takvim if k["durum"].endswith("-bekliyor") and dt.datetime.fromisoformat(k["zaman"]) <= simdi]
