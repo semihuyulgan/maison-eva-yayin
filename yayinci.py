@@ -26,7 +26,7 @@ IG_ID = "17841426632497650"
 API = "https://graph.instagram.com"
 KOK = pathlib.Path(__file__).resolve().parent
 TAKVIM = KOK / "takvim.json"
-GECIKME_SINIRI = dt.timedelta(hours=6)
+GECIKME_SINIRI = dt.timedelta(hours=24)
 
 
 class ApiHatasi(Exception):

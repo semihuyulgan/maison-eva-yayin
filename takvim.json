@@ -9,6 +9,21 @@
   "durum": "iptal"
  },
  {
+  "id": "2026-11-07-carousel",
+  "tur": "carousel",
+  "zaman": "2026-11-06T13:09:03+03:00",
+  "konu": "Örnek konsept: kız çocuğu doğum günü",
+  "tema": "konsept",
+  "aciklama": "Doğum günü burada böyle kurulabilir. Rengini, temasını siz seçin, konuşalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
+  "gorseller": [
+   "medya/paket-08/carousel-1.jpg",
+   "medya/paket-08/carousel-2.jpg",
+   "medya/paket-08/carousel-3.jpg"
+  ],
+  "durum": "hazir",
+  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
+ },
+ {
   "id": "2026-11-06-hikaye-2",
   "tur": "hikaye",
   "zaman": "2026-11-06T15:00:00+03:00",
@@ -44,21 +59,6 @@
   "tema": "gunun-karesi",
   "gorseller": [],
   "durum": "iptal"
- },
- {
-  "id": "2026-11-07-carousel",
-  "tur": "carousel",
-  "zaman": "2026-11-07T11:00:00+03:00",
-  "konu": "Örnek konsept: kız çocuğu doğum günü",
-  "tema": "konsept",
-  "aciklama": "Doğum günü burada böyle kurulabilir. Rengini, temasını siz seçin, konuşalım.\n\nBu görsel örnek bir kurulumdur.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü",
-  "gorseller": [
-   "medya/paket-08/carousel-1.jpg",
-   "medya/paket-08/carousel-2.jpg",
-   "medya/paket-08/carousel-3.jpg"
-  ],
-  "durum": "hazir",
-  "etiketler": "#bornovadoğumgünü #izmirdoğumgünümekanı #izmirdoğumgünü"
  },
  {
   "id": "2026-11-07-hikaye-2",

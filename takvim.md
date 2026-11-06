@@ -4,7 +4,7 @@ Türkiye saati. Sade aile salonu planı: 2 örnek konsept, 1 bilgi, 1 Reels, 3 h
 
 | Tarih | Gün | Saat | Tür | Konu | Durum |
 |---|---|---|---|---|---|
-| 07.11 | Cumartesi | 11:00 | carousel | Örnek konsept: kız çocuğu doğum günü | Hazır |
+| 06.11 | Cuma | şimdi | carousel | Örnek konsept: kız çocuğu doğum günü | Hazır |
 | 08.11 | Pazar | 10:00 | hikaye | Hazırlık anı | Hazır |
 | 08.11 | Pazar | 14:00 | gorsel | Afiş: kına | Hazır |
 | 09.11 | Pazartesi | 19:00 | carousel | Kiralamaya ne dahil (sabitlenecek) | Hazır |
