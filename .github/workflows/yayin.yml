@@ -26,4 +26,5 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           MEDYA_TABAN: https://raw.githubusercontent.com/${{ github.repository }}/main
+          VIDEO_TABAN: https://semihuyulgan.github.io/maison-eva-yayin
         run: python3 yayinci.py
