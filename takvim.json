@@ -362,8 +362,10 @@
    "medya/paket-09/carousel-2.jpg",
    "medya/paket-09/carousel-3.jpg"
   ],
-  "durum": "isleniyor",
-  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon"
+  "durum": "yayinda",
+  "etiketler": "#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
+  "medya_id": "17930673390423957",
+  "yayin_zamani": "2026-11-09T16:56:04.625906+00:00"
  },
  {
   "id": "2026-11-09-hd",
