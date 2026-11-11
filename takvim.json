@@ -565,8 +565,10 @@
    "medya/paket-10/carousel-2.jpg",
    "medya/paket-10/carousel-3.jpg"
   ],
-  "durum": "isleniyor",
-  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
+  "durum": "yayinda",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
+  "medya_id": "18116965379136774",
+  "yayin_zamani": "2026-11-11T15:03:55.281638+00:00"
  },
  {
   "id": "2026-11-11-hd",
