@@ -549,7 +549,9 @@
   "gorseller": [
    "medya/paket-gunluk/2026-11-11-hc.jpg"
   ],
-  "durum": "isleniyor"
+  "durum": "yayinda",
+  "medya_id": "18126411589710030",
+  "yayin_zamani": "2026-11-11T13:33:03.899831+00:00"
  },
  {
   "id": "2026-11-11-carousel",
