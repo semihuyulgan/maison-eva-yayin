@@ -973,8 +973,10 @@
   "gorseller": [
    "medya/paket-afis/2-nisan.jpg"
   ],
-  "durum": "isleniyor",
-  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan"
+  "durum": "yayinda",
+  "etiketler": "#bornovanişanmekanı #izmirnişanmekanı #izmirnişan",
+  "medya_id": "17998815033117525",
+  "yayin_zamani": "2026-11-15T16:31:31.741919+00:00"
  },
  {
   "id": "2026-11-15-hikaye-2",
