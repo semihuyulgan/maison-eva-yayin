@@ -2781,5 +2781,17 @@
    "medya/paket-gunluk/2026-12-03-he.jpg"
   ],
   "durum": "hazir"
+ },
+ {
+  "id": "2026-12-06-reels",
+  "tur": "reels",
+  "tema": "film",
+  "gorseller": [
+   "medya/paket-reels/2026-12-06-reels.mp4"
+  ],
+  "zaman": "2026-12-06T20:00:00+03:00",
+  "aciklama": "Bir davetin hatırası, sofrasında kalır.\n\nTarihinizi ve kişi sayınızı DM'den yazın, birlikte bakalım.\n\n📍 Meriç, Bornova\n📞 0534 685 01 57\n\n#bornovadavetevi #izmirdavetevi #izmirorganizasyon",
+  "kapak_ms": 12083,
+  "durum": "hazir"
  }
 ]
