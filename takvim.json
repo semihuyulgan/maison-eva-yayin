@@ -1428,8 +1428,10 @@
   "gorseller": [
    "medya/paket-reels/2026-11-19-reels.mp4"
   ],
-  "durum": "isleniyor",
-  "kapak_ms": 11567
+  "durum": "yayinda",
+  "kapak_ms": 11567,
+  "medya_id": "18183510958436610",
+  "yayin_zamani": "2026-11-19T16:51:58.198616+00:00"
  },
  {
   "id": "2026-11-19-hd",
