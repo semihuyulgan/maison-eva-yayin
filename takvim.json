@@ -2183,8 +2183,10 @@
   "gorseller": [
    "medya/paket-reels/2026-11-26-reels.mp4"
   ],
-  "durum": "isleniyor",
-  "kapak_ms": 12017
+  "durum": "yayinda",
+  "kapak_ms": 12017,
+  "medya_id": "17955427794345181",
+  "yayin_zamani": "2026-11-26T16:07:51.044098+00:00"
  },
  {
   "id": "2026-11-26-hd",
