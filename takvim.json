@@ -2289,7 +2289,8 @@
   "gorseller": [
    "medya/paket-gunluk/2026-11-27-hc.jpg"
   ],
-  "durum": "isleniyor"
+  "durum": "belirsiz",
+  "hata": "400: The requested resource does not exist (kod 24)"
  },
  {
   "id": "2026-11-27-hd",
